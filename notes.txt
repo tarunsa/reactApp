@@ -3,3 +3,12 @@ step1: First install the nodejs
 step2: npm install-g create-react-app
 
 step3: go to project folder and write this command create-react-app demo
+
+step-4: For every time install use npm init react-app 
+'appname"
+
+step-5: For reactNative use react-native init "appname"
+
+In react-native  for navigations use these commands
+yarn add @react-navigation/native @react-navigation/stack 
+yarn add  react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view

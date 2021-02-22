@@ -1,0 +1,9 @@
+1) ReactJs is a javascript library for building user interfaces.
+
+Components:
+------------
+1) Components are building blocks of react App
+2) Any section of ui is a Component
+3) Component should return an element must
+4) Component can be independently developed
+5) Components are reusubale

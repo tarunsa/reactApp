@@ -12,3 +12,14 @@ step-5: For reactNative use react-native init "appname"
 In react-native  for navigations use these commands
 yarn add @react-navigation/native @react-navigation/stack 
 yarn add  react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+progressive web application:
+###############################
+for existing react app we need to add service-worker.js and follwing commands.
+
+yarn add workbox-core workbox-expiration workbox-precaching workbox-routing workbox-strategies
+
+for a new project:
+####################
+
+npm init react-app 'appname' --template cra-template-pwa

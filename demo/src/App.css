@@ -46,7 +46,7 @@ html {
   border-radius: 100px;
   /* padding: 5px; */
 }
-input {
+.input {
   width: 94%;
   height: 20px;
   margin-left: 30px;

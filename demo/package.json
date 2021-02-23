@@ -12,7 +12,13 @@
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
     "react-scripts": "3.4.3",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.3.5",
+    "serve": "^11.3.2",
+    "workbox-core": "^6.1.0",
+    "workbox-expiration": "^6.1.0",
+    "workbox-precaching": "^6.1.0",
+    "workbox-routing": "^6.1.0",
+    "workbox-strategies": "^6.1.0"
   },
   "scripts": {
     "start": "react-scripts start",

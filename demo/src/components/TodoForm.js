@@ -19,6 +19,7 @@ class TodoForm extends Component {
       <div>
         <form onSubmit={this.addTodo}>
           <input
+            className="input"
             type="text"
             value={this.state.todotext}
             onChange={(e) => this.setState({ todotext: e.target.value })}
